@@ -1,0 +1,12 @@
+﻿  SqList.cpp
+g:\c文件\sort\sort\sqlist.cpp(5): error C2146: 语法错误: 缺少“;”(在标识符“otherinfo”的前面)
+g:\c文件\sort\sort\sqlist.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\c文件\sort\sort\sqlist.cpp(5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  InsertSort.cpp
+g:\c文件\sort\sort\insertsort.cpp(1): error C2065: “SqList”: 未声明的标识符
+g:\c文件\sort\sort\insertsort.cpp(1): error C2065: “L”: 未声明的标识符
+g:\c文件\sort\sort\insertsort.cpp(1): error C2448: “InsertSort”: 函数样式初始值设定项类似函数定义
+  Filetest.cpp
+g:\c文件\sort\sort\filetest.cpp(5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+  正在生成代码...

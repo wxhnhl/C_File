@@ -1,0 +1,5 @@
+﻿  test.cpp
+g:\c文件\filetest\filetest\test.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+  LINK : 没有找到 G:\C文件\filetest\Debug\filetest.exe 或上一个增量链接没有生成它；正在执行完全链接
+  filetest.vcxproj -> G:\C文件\filetest\Debug\filetest.exe

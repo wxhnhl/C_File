@@ -1,0 +1,25 @@
+﻿生成启动时间为 2020/5/30 11:29:37。
+     1>项目“C:\Users\harry\Desktop\我的文件\C++文件\neuqoj12\neuqoj12\neuqoj12.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\neuqoj12.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt jc.cpp
+         jc.cpp
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(9): error C2059: 语法错误:“数字上的错误后缀”
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(9): error C2146: 语法错误: 缺少“;”(在标识符“n”的前面)
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(9): warning C4552: “-”: 运算符不起任何作用；应输入带副作用的运算符
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(11): error C2059: 语法错误:“数字上的错误后缀”
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(11): error C2146: 语法错误: 缺少“;”(在标识符“n”的前面)
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(14): error C2059: 语法错误:“数字上的错误后缀”
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(14): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(14): error C2059: 语法错误:“数字上的错误后缀”
+     1>c:\users\harry\desktop\我的文件\c++文件\neuqoj12\neuqoj12\jc.cpp(14): error C2059: 语法错误:“)”
+     1>已完成生成项目“C:\Users\harry\Desktop\我的文件\C++文件\neuqoj12\neuqoj12\neuqoj12.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.19

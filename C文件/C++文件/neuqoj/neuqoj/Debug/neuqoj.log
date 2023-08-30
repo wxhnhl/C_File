@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/5/20 8:40:11。
+     1>项目“C:\Users\harry\Desktop\我的文件\C++文件\neuqoj\neuqoj\neuqoj.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\harry\Desktop\我的文件\C++文件\neuqoj\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\neuqoj.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\neuqoj.unsuccessfulbuild”。
+         正在对“Debug\neuqoj.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\harry\Desktop\我的文件\C++文件\neuqoj\neuqoj\neuqoj.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.57

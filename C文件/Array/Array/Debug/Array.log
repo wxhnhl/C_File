@@ -1,0 +1,13 @@
+﻿  InitArrray.cpp
+g:\c文件\array\array\initarrray.cpp(1): error C2146: 语法错误: 缺少“;”(在标识符“InitArray”的前面)
+g:\c文件\array\array\initarrray.cpp(1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\c文件\array\array\initarrray.cpp(1): error C2065: “Array”: 未声明的标识符
+g:\c文件\array\array\initarrray.cpp(1): error C2065: “A”: 未声明的标识符
+g:\c文件\array\array\initarrray.cpp(1): error C2062: 意外的类型“int”
+g:\c文件\array\array\initarrray.cpp(1): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+g:\c文件\array\array\initarrray.cpp(1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  Array.cpp
+g:\c文件\array\array\array.cpp(4): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+g:\c文件\array\array\array.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+g:\c文件\array\array\array.cpp(4): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  正在生成代码...

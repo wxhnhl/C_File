@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "listLink", "listLink\listLink.vcxproj", "{7384EC72-9C70-4E72-AD8C-3E86C8EC375A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7384EC72-9C70-4E72-AD8C-3E86C8EC375A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7384EC72-9C70-4E72-AD8C-3E86C8EC375A}.Debug|Win32.Build.0 = Debug|Win32
+		{7384EC72-9C70-4E72-AD8C-3E86C8EC375A}.Release|Win32.ActiveCfg = Release|Win32
+		{7384EC72-9C70-4E72-AD8C-3E86C8EC375A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

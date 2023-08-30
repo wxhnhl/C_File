@@ -1,0 +1,7 @@
+﻿  average.cpp
+g:\c文件\学生成绩\学生成绩\average.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+g:\c文件\学生成绩\学生成绩\average.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+  LINK : 没有找到 G:\C文件\学生成绩\Debug\学生成绩.exe 或上一个增量链接没有生成它；正在执行完全链接
+  学生成绩.vcxproj -> G:\C文件\学生成绩\Debug\学生成绩.exe
